@@ -1,4 +1,5 @@
-![Uploading IMG_20250110_112008.jpg…]()
+![IMG-20250110-WA0033](https://github.com/user-attachments/assets/006f8b96-3e7f-4a2c-8937-313259f60c1b)
+![IMG-20250110-WA0034](https://github.com/user-attachments/assets/bebf5b73-4326-4d8a-9fb9-1cfd879d4ea5)
 # facedetector
 The provided text describes a Python project for face detection using a pre-trained model from Google Teachable Machine. Here's a breakdown of the functionalities and instructions:
 
