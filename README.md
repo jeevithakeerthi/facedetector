@@ -1,3 +1,4 @@
+![Uploading IMG_20250110_112008.jpg…]()
 # facedetector
 The provided text describes a Python project for face detection using a pre-trained model from Google Teachable Machine. Here's a breakdown of the functionalities and instructions:
 
